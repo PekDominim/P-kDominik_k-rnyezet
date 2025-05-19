@@ -1,0 +1,21 @@
+body {background-color: #006400;}
+a {
+    color: #006400;
+  }
+  table {
+border-width: 1000px;
+background-color: #98FB98;
+padding: 3px;
+border-spacing: 3px;
+  }
+  #pic {
+    text-align: center;
+    vertical-align: top;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border: 1px solid
+  }
